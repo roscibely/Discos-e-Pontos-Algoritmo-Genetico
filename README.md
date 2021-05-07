@@ -1,2 +1,3 @@
-# Discos-e-Pontos-Algoritmo-Genetico
-O problema consiste em localizar uma certa quantidade de discos, de modo a cobri todos os pontos apresentados. É analogo ao probelma real de localização das antenas de telecomunicações no espaço geográfico. 
+# Smallest-circle problem with Genetic Algorithm (GA) 
+
+The problem is that a certain number of discs are put in order to cover all points. It is analogous to the real problem of location of the telecommunications antennas in the geographical space. 
